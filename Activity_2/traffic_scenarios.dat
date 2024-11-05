@@ -1,0 +1,6 @@
+pedestrian main 20
+car main 10
+pedestrian main 15
+car diversion 5
+pedestrian main 10
+car main 8
